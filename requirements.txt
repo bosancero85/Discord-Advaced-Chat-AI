@@ -1,0 +1,17 @@
+# Discord Bot Framework
+discord.py
+
+# AI Integrationen
+google-generativeai
+openai
+lumaai
+
+# Datenbank & Backend
+firebase-admin
+
+# Netzwerk & Utility
+aiohttp
+python-dotenv
+
+# Für die Erstellung der .exe (optional in der Liste, aber hilfreich)
+pyinstaller
