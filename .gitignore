@@ -1,0 +1,7 @@
+# Ignoriere API Keys und Firebase-Secrets
+firebase-adminsdk.json
+.env
+__pycache__/
+build/
+dist/
+*.spec
